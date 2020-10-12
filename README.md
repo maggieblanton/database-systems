@@ -1,5 +1,3 @@
-// HOW TO RUN 
-
 Project was developed with mySQL and the mySQL Workbench. 
 
 To run, open the 'hospital.sql' file included in Blanton_FinalProject.zip folder. Execute the entire script. 
