@@ -77,7 +77,7 @@ insert into patients values
   ('eaj453', 'Elizabeth', 'Jones', 'Sarah', 'White', '5434114325', 'Humana', '4526'),
   ('r2f532', 'Rebecca', 'Franklin', 'Jack', 'Franklin', '205470854', 'UnitedHealth', 8954), 
   ('tag932', 'Teresa', 'Garcia', 'David', 'Garcia', '8708724421', 'WellCare', 7539),
-  ('mmb412', 'Madison', 'Busby', 'Riley', 'Davis', '6746357667', 'WellCare', 7573),
+  ('mmb412', 'Madison', 'Busby', 'Tim', 'Davis', '6746357667', 'WellCare', 7573),
   ('bjj453', 'Brooks', 'Johnson', 'Brett', 'Freeman', '234345654', 'BlueCross BlueShield', 8635),
   ('sam123', 'Sam', 'Morris', 'Jeff', 'Morris', '3342567676', 'Humana', 2421),
   ('rbg164', 'Ron', 'Green', 'Susan', 'James', '2134342322', 'Wellcare', 1453);
